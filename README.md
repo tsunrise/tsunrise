@@ -1,5 +1,3 @@
-# Conghao (Tom) Shen
-
 ✉ **Email** me@tomshen.io
 
 📝 **Page** https://tomshen.io
