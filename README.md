@@ -6,4 +6,4 @@
 
 <hr>
 
-*Starting from Feb.5th 2022, all commits by "Conghao Shen <me@tomshen.io>" should be properly signed.*
+*Starting from Feb.5th 2022, all commits by `Conghao Shen <me@tomshen.io>` should be properly signed.*
