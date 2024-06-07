@@ -1,6 +1,8 @@
-🤖 **Ask me any question!** https://tomshen.io
+🤖 **Ask me any question!** [tomshen.io](https://tomshen.io)
 
 ✉ **Email** me@tomshen.io
+
+🔗 **LinkedIn**: [waga.me/in](https://waga.me/in)
 
 ------
 
